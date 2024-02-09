@@ -1,0 +1,46 @@
+* {
+    text-align: right;
+}
+
+body {
+    background-image: url("https://www.zingerbugimages.com/backgrounds/light_pink_marble_seamless.jpg");
+    background-size: cover; /*the background image covers the website*/
+}
+
+a, nav {
+    font-size: 20px;
+}
+
+h2 {
+    color: #AA4139;
+    font-size: 45px;   
+}
+
+section > p {
+    color: #AA4139; /*sets h2 and p element to this color from paletton.com*/
+    text-align: center; /*aligns text to the center*/
+    border: 5px solid rgba(255, 176, 170, 0.5); /*last one is opacity*/
+    cursor: pointer; 
+    font-size: 30px;
+    line-height: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Poiret One', cursive;
+    /* line-height: 5px; */ /*property cleared and not a paart of float test*/
+}
+
+img {
+    float: left;
+}
+
+
+footer p {
+    clear: both;
+    text-align: center;
+    font-size: 24px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}

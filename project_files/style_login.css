@@ -1,0 +1,25 @@
+
+h2 {
+    color: blue;
+}
+
+.boxmodel {
+    border: 5px solid red;
+    display:inline-block;
+    /*test*/
+    /* padding: 20px 30px 40px 50px; top right bottom left */
+    /* margin: 20px 30px 40px 50px; same as padding */
+    /* width: 20px;
+    height: 30px; */
+
+    padding: 5px 20px;
+    margin: 0px 20px;
+    width: 33px;
+    height:55px;
+
+    /*units reference: https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/*/
+}
+/*How to capetalize every first letter in a pragraph with*/
+/* p {
+    text-transform: capitalize;
+} */

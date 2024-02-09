@@ -3,17 +3,17 @@
 } */
 * {
     text-align: right; /*all other elements have priority to their slectors and classes*/
-}
+}/*aligns text to the right*/
 
 body {
     background-image: url("https://www.zingerbugimages.com/backgrounds/light_pink_marble_seamless.jpg");
-   background-size: co
+    background-size: cover; /*the background image covers the website*/
 }
 h2, p {
-    color: #AA4139;
-    text-align: center;
+    color: #AA4139; /*sets h2 and p element to this color from paletton.com*/
+    text-align: center; /*aligns text to the center*/
     border: 5px solid rgba(255, 176, 170, 0.5); /*last one is opacity*/
-    cursor: pointer;
+    cursor: pointer; 
 }
 
 p {
@@ -26,13 +26,13 @@ p {
 }
 
 li {
-    list-style: none;
-    display:inline-block;
-
+    list-style: none; /*unbullits the list*/
+    display:inline-block; /*sets display to be on the same line instead of block which goes on necxt line*/
+/*this allows the list of home, about, and login to be inline and next to eachother*/
 }
 
 .webtext {
-    border: 5px dashed green;
+    border: 5px dashed green; /*size | type of line | color*/
 }
 
 .active {
@@ -40,9 +40,19 @@ li {
 }
 
 #div1 {
-    background: rgba(0, 0, 255, 0.2);
+    background: rgba(0, 0, 255, 0.2); /*sets blue of 255 with an opacity of 0.2*/
 }
 
 #div2 {
-    background: rgba(255, 0, 0, 0.2);
+    background: rgba(255, 0, 0, 0.2); /*sets red of 255 with opacity of 0.2*/
+}
+
+#div3 p {
+    line-height: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 80%;
+    /* font-family: 'Times New Roman', Times, serif;  */
+    font-family: 'Poiret One', cursive; /*using google fonts Poiret one font*/
+
 }

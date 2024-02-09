@@ -3,24 +3,28 @@
 <html>
 <head>
   <title>My first website!</title>
+  <link rel="stylesheet" type-"text/css" href="styleabout.css">
   <link rel="stylesheet" type-"text/css" href="style.css">
-  
+  <!--links html to correct stylesheet-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poiret+One&display=swap" rel="stylesheet">
 </head>
 <body>
-  <button class="btn btn-primary">Default</button>
+  <button class="btn btn-primary">Default</button> <!--creates default button and sets it to a class-->
   <header>
-    <nav>
-      <ul>
-        <li>Home</li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="login.html">Login</a></li>
-      </ul>
-    </nav>
-  </header>
-  <section>
-    <h2>Home</h2>
-    <div id="div1">
-      <p class="webtext active">Lorem Ipsum</p>
+    <nav> <!--creates a navigation pannel-->
+      <ul><!--creats a bullited list or an unordered list-->
+        <li>Home</li> <!--first element of the list-->
+        <li><a href="about.html">About</a></li> <!--second element of a list wrapping an anchor tag-->
+        <li><a href="login.html">Login</a></li> <!--third element of the list wrapping an anchor tag-->
+      </ul> <!--ends the unordered list-->
+    </nav> <!--ends the navigation section-->
+  </header> <!--ends the header section of the website-->
+  <section> <!--start of new section of the wensite-->
+    <h2>Home</h2>    <!--creates a heading of h2 importance-->
+    <div id="div1"> <!--creates a division with a class-->
+      <p class="webtext active">Lorem Ipsum</p> <!--all under the div1 class with their own classes, children to it-->
       <p class="webtext">Lorem Ipsum</p>
       <p class="webtext">Lorem Ipsum</p>
     </div>
@@ -30,6 +34,7 @@
       <p class="webtext">Lorem Ipsum</p>
       <p class="webtext">Lorem Ipsum</p>
     </div>
+
     
   </section>
 </body>
