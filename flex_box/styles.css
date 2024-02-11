@@ -1,0 +1,34 @@
+body{
+    margin:0px; /*sets no margin*/
+}
+h1 { /*grabs the h1 selector to edit*/
+    font-family: fantasy; /*sets the font to fantasy*/
+    font-size:3em; /*3 times the standard h1 size*/
+
+    border-bottom: 2px solid pink; /*sets a border of 2 pixels that is solid and colored pink for the h1 box*/
+    width: 400px; /*sets the width of the content inside the box to be 400px*/
+    border-right: 2px solid pink; /*sets a border on the right side of the h1 box*/
+    box-shadow: 4px 4px 5px #888888; /*gives a border shadow effect that is #888888 color*/
+}
+
+.container { /*made a division that contains all of the images*/
+    display: flex; /*sets the display to flex so that we can use flex-box attibutes*/
+    flex-wrap: wrap; /*wraps around the content which are the images instead of having the pics be smushed together across the screen*/
+    justify-content: center; /*conteols where the images are on the x-axis of the screen
+    for this, we are centering it on the x-axis, or middel fo the screen*/
+
+}
+
+img { /*img selector to modify all images in the html file*/
+    width: 450px;
+    height: 300px;
+    margin: 10px;
+    transition: all 1s; /*used to aid the transofrm effect when hovering on the image*/
+    /*sets the duration of the effect to last 1s*/
+}
+
+img:hover { /*for the img effect to work, we need to work with the hover img selector
+    , this says, "do this when we are hovering our mouse on the img*/
+    transform: scale(1.1); 
+}
+    
