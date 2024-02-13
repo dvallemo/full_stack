@@ -1,5 +1,23 @@
 
-# CSS learnign Projects:
+# HTML and CSS
+
+Dev Tools
+* [CSS Tricks Almanac] - https://css-tricks.com/almanac/
+* [Paletton - color helper] - https://paletton.com/#uid=11e0u0kllllaFw0g0qFqFg0w0aF
+* [w-3 schools selector ref] - https://www.w3schools.com/cssref/css_selectors.php
+* [Google fonts] - https://fonts.google.com/
+* [CSS minify] - https://www.toptal.com/developers/cssminifier
+* [CSS tricks flex-box full guide] - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* [CSS browser support] - https://www.w3schools.com/cssref/css3_browsersupport.php
+* [Can I use tables] - https://caniuse.com/
+* [CSS prefixes] - https://shouldiprefix.com/, https://autoprefixer.github.io/
+
+CSS games
+* [egg selector game] - https://css-diner.netlify.app/
+* [Fex-box froggy] - https://flexboxfroggy.com/
+
+Bootstrap
+* [Bootstrap grid] - https://getbootstrap.com/docs/5.3/layout/grid/
 
 github issues: tried renaming repository and adding new files and gave me this error
 https://stackoverflow.com/questions/20467179/git-push-rejected-non-fast-forward
