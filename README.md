@@ -19,6 +19,18 @@ CSS games
 Bootstrap
 * [Bootstrap grid] - https://getbootstrap.com/docs/5.3/layout/grid/
 
+Templates
+* https://html5up.net/
+* Creative Tim Templates - https://www.creative-tim.com/bootstrap-themes/free
+* Portfolio Templates - https://bashooka.com/freebie/free-html-portfolio-website-templates/
+* Free CSS Templates - https://www.free-css.com/free-css-templates
+* TemplateMo - https://templatemo.com/page/1
+* Bootstrap Templates - https://mdbootstrap.com/freebies/
+* Bootstrap Templates 1 - https://themewagon.com/author/mashuptemplate/
+* Bootstrap Templates 2- https://startbootstrap.com/templates
+* Animate.css - https://animate.style/
+
+
 github issues: tried renaming repository and adding new files and gave me this error
 https://stackoverflow.com/questions/20467179/git-push-rejected-non-fast-forward
 
