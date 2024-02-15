@@ -1,5 +1,8 @@
 
-# HTML and CSS
+# HTML CSS and JavaScript
+
+JavaScript references
+* [array methods] - https://www.w3schools.com/jsref/jsref_obj_array.asp
 
 Dev Tools
 * [CSS Tricks Almanac] - https://css-tricks.com/almanac/
