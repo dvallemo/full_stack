@@ -36,7 +36,7 @@ Templates
 * Animate.css - https://animate.style/
 
 ### Linux references
-[mv] - https://linuxize.com/post/how-to-move-files-in-linux-with-mv-command/
+[mv] - https://linuxize.com/post/how-to-move-files-in-linux-with-mv-command/, install adblocker for this site, the adds on this site are annoying
 
 
 github issues: tried renaming repository and adding new files and gave me this error
