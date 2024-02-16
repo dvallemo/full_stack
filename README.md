@@ -1,10 +1,10 @@
 
 # HTML CSS and JavaScript
 
-JavaScript references
+### JavaScript references
 * [Array Methods ref W3] - https://www.w3schools.com/jsref/jsref_obj_array.asp
 
-Dev Tools
+### Dev Tools
 * [CSS Tricks Almanac] - https://css-tricks.com/almanac/
 * [Paletton - color helper] - https://paletton.com/#uid=11e0u0kllllaFw0g0qFqFg0w0aF
 * [w-3 schools selector ref] - https://www.w3schools.com/cssref/css_selectors.php
@@ -16,7 +16,7 @@ Dev Tools
 * [CSS prefixes] - https://shouldiprefix.com/, https://autoprefixer.github.io/
 * [CSS Grid cheatsheet] - https://grid.malven.co/
 
-CSS games
+### CSS games
 * [egg selector game] - https://css-diner.netlify.app/
 * [Fex-box froggy] - https://flexboxfroggy.com/
 * [grid garden game] - https://cssgridgarden.com/
@@ -34,6 +34,9 @@ Templates
 * Bootstrap Templates 1 - https://themewagon.com/author/mashuptemplate/
 * Bootstrap Templates 2- https://startbootstrap.com/templates
 * Animate.css - https://animate.style/
+
+### Linux references
+[mv] - https://linuxize.com/post/how-to-move-files-in-linux-with-mv-command/
 
 
 github issues: tried renaming repository and adding new files and gave me this error
