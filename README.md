@@ -37,6 +37,7 @@ Templates
 
 ### Linux references
 [mv] - https://linuxize.com/post/how-to-move-files-in-linux-with-mv-command/, install adblocker for this site, the adds on this site are annoying
+[renaming a directory] - ttps://www.howtogeek.com/807990/rename-directory-linux/
 
 
 github issues: tried renaming repository and adding new files and gave me this error
