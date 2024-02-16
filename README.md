@@ -36,7 +36,7 @@ Templates
 * Animate.css - https://animate.style/
 
 ### Linux references
-* [mv] - https://linuxize.com/post/how-to-move-files-in-linux-with-mv-command/, install adblocker for this site, the adds on this site are annoying
+* [mv] - https://linuxize.com/post/how-to-move-files-in-linux-with-mv-command/, install adblocker for this site, the ads on this site are annoying
 * [renaming a directory] - ttps://www.howtogeek.com/807990/rename-directory-linux/
 
 
