@@ -15,6 +15,7 @@
 * [Can I use tables] - https://caniuse.com/
 * [CSS prefixes] - https://shouldiprefix.com/, https://autoprefixer.github.io/
 * [CSS Grid cheatsheet] - https://grid.malven.co/
+* [Full page background] - https://css-tricks.com/perfect-full-page-background-image/
 
 ### CSS games
 * [egg selector game] - https://css-diner.netlify.app/
