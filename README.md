@@ -16,6 +16,7 @@
 * [CSS prefixes] - https://shouldiprefix.com/, https://autoprefixer.github.io/
 * [CSS Grid cheatsheet] - https://grid.malven.co/
 * [Full page background] - https://css-tricks.com/perfect-full-page-background-image/
+* [Media quaries] - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 
 ### CSS games
 * [egg selector game] - https://css-diner.netlify.app/
