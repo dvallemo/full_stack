@@ -17,6 +17,7 @@
 * [CSS Grid cheatsheet] - https://grid.malven.co/
 * [Full page background] - https://css-tricks.com/perfect-full-page-background-image/
 * [Media quaries] - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+* [Learn CSS] - https://web.dev/learn/css/
 
 ### CSS games
 * [egg selector game] - https://css-diner.netlify.app/
