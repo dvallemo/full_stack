@@ -100,34 +100,34 @@
 //we need to create a database of users and newsfeed with the username of the users and what it 
 //says on their timeline, then we use an action to check a users credentials
 
-// var database = [
-//     {
-//         username: "David",
-//         password: "secret"
-//     }
-// ]
+var database = [
+    {
+        username: "David",
+        password: "secret"
+    }
+]
 
-// var newsFeed = [
-//     {
-//         username: "Bobby",
-//         timeline: "Sotured from all this learning"
-//     },
-//     {
-//         username: "Sally",
-//         timeline: "JavaScript is sooo coool!"
-//     }
-// ];
+var newsFeed = [
+    {
+        username: "Bobby",
+        timeline: "Sotured from all this learning"
+    },
+    {
+        username: "Sally",
+        timeline: "JavaScript is sooo coool!"
+    }
+];
 
-// var userNamePrompt = prompt("What is your username?");
-// var passwordPrompt = prompt("What is your password?");
+var userNamePrompt = prompt("What is your username?");
+var passwordPrompt = prompt("What is your password?");
 
-// function signIn(user, pass) {
-//     if(user == database[0].username && pass == database[0].password) {
-//         console.log(newsFeed);
-//     } else {
-//         alert("Wrong username and password");
-//     }
-// }
+function signIn(user, pass) {
+    if(user == database[0].username && pass == database[0].password) {
+        console.log(newsFeed);
+    } else {
+        alert("Wrong username and password");
+    }
+}
 
 // signIn(userNamePrompt, passwordPrompt);
 
@@ -169,13 +169,13 @@
 
 //loops
 
-var todos = [
-    "clean room",
-    "brush teeth",
-    "excercise",
-    "study javascript",
-    "eat healthy"
-];
+// var todos = [
+//     "clean room",
+//     "brush teeth",
+//     "excercise",
+//     "study javascript",
+//     "eat healthy"
+// ];
 //wrrite a loop that will print out each object and add an ! to it
 
 // for(let i = 0; i < todos.length; i++) {
@@ -185,9 +185,9 @@ var todos = [
 //write a program that when you keep popping until element gets to the end of the length
 //what is the result of this program?
 
-for(let i = 0; i < todos.length; i++) {
-    todos.pop();
-}
+// for(let i = 0; i < todos.length; i++) {
+//     todos.pop();
+// }
 
 //   i:      lenght of array
 //   0       <       5
@@ -254,7 +254,7 @@ while(counterOne > 10) {
 var counterTwo = 10;
 do {
     console.log("do while", counterTwo);
-    counter--;
+    counterTwo--;
 
 }while(counterTwo > 10);
 //the while checks the conditional first and determines that 10 is not greater than 10
