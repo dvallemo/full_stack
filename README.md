@@ -3,6 +3,36 @@
 
 ### JavaScript references
 * [Array Methods ref W3] - https://www.w3schools.com/jsref/jsref_obj_array.asp
+### DOM selectors:
+DOM Selectors
+--------------
+getElementsByTagName
+getElementsByClassName
+getElementById
+
+querySelector
+querySelectorAll
+
+getAttribute
+setAttribute
+
+##Changing Styles
+style.{property} //ok
+
+className //best
+classList //best
+
+classList.add
+classList.remove
+classList.toggle
+
+##Bonus
+innerHTML //DANGEROUS
+
+parentElement
+children
+
+##It is important to CACHE selectors in variables
 
 ### Dev Tools
 * [CSS Tricks Almanac] - https://css-tricks.com/almanac/
