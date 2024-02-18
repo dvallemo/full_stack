@@ -3,6 +3,7 @@
 
 ### JavaScript references
 * [Array Methods ref W3] - https://www.w3schools.com/jsref/jsref_obj_array.asp
+* [Javascript events] - https://developer.mozilla.org/en-US/docs/Web/Events
 
 ### Dev Tools
 * [CSS Tricks Almanac] - https://css-tricks.com/almanac/
