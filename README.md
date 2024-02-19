@@ -6,6 +6,7 @@
 * [Javascript events] - https://developer.mozilla.org/en-US/docs/Web/Events
 
 ### Dev Tools
+* [CSS cheat sheet] - https://htmlcheatsheet.com/css/
 * [CSS Tricks Almanac] - https://css-tricks.com/almanac/
 * [Paletton - color helper] - https://paletton.com/#uid=11e0u0kllllaFw0g0qFqFg0w0aF
 * [w-3 schools selector ref] - https://www.w3schools.com/cssref/css_selectors.php
