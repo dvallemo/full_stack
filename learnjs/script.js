@@ -100,34 +100,42 @@
 //we need to create a database of users and newsfeed with the username of the users and what it 
 //says on their timeline, then we use an action to check a users credentials
 
-var database = [
-    {
-        username: "David",
-        password: "secret"
-    }
-]
+// var database = [
+//     {
+//         username: "David",
+//         password: "secret"
+//     },
+//     {
+//         username: "sally",
+//         password: "123"
+//     },
+//     {
+//         username: "ingrid",
+//         password: "777"
+//     }
+// ]
 
-var newsFeed = [
-    {
-        username: "Bobby",
-        timeline: "Sotured from all this learning"
-    },
-    {
-        username: "Sally",
-        timeline: "JavaScript is sooo coool!"
-    }
-];
+// var newsFeed = [
+//     {
+//         username: "Bobby",
+//         timeline: "Sotured from all this learning"
+//     },
+//     {
+//         username: "Sally",
+//         timeline: "JavaScript is sooo coool!"
+//     }
+// ];
 
-var userNamePrompt = prompt("What is your username?");
-var passwordPrompt = prompt("What is your password?");
+// var userNamePrompt = prompt("What is your username?");
+// var passwordPrompt = prompt("What is your password?");
 
-function signIn(user, pass) {
-    if(user == database[0].username && pass == database[0].password) {
-        console.log(newsFeed);
-    } else {
-        alert("Wrong username and password");
-    }
-}
+// function signIn(user, pass) {
+//     if(user == database[0].username && pass == database[0].password) {
+//         console.log(newsFeed);
+//     } else {
+//         alert("Wrong username and password");
+//     }
+// }
 
 // signIn(userNamePrompt, passwordPrompt);
 
@@ -202,11 +210,11 @@ function signIn(user, pass) {
 //   3       >       2
 // now 3 is greater than 2 or i > than the lenght so the loop stops
 
-let counterOne = 0;
-while(counterOne < 10) {
-    console.log(counterOne);
-    counterOne++;
-}
+// let counterOne = 0;
+// while(counterOne < 10) {
+//     console.log(counterOne);
+//     counterOne++;
+// }
 //  counterOne         is counterOne < 10?    
 //      0                      yes
 //prints out 0
@@ -264,9 +272,10 @@ do {
 //since 10 is not greater than 10 the loops breaks out, only printing out the first console.log 
 
 //forEach ECMAScript 5 method, for loop does the same thing
-todos.forEach (function(todo) {
-    console.log(todo);
-})
+// todos.forEach (function(todo) {
+//     console.log(todo);
+// })
+
 
 
 
