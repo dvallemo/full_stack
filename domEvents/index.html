@@ -1,23 +1,33 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Javascript + DOM</title>
+	<title>Javascript + DOM</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <h1>Shopping List</h1>
-    <p id="Get it done today"></p>
-    <input id="userinput" type="text" placeholder= "Enter items">
-    <button id="enter">Enter</button>
-    <ul>
-        <li class="bold red" random= "23">Notebook</li>
-        <li>Jello</li>
-        <li>Spinach</li>
-        <li>Rice</li>
-        <li>Birthday Cake</li>
-        <li>Candles</li>
-    </ul>
-    <script type="text/javascript" src="script.js"></script>
+	<h1 class="coolTitle">Shopping List</h1>
+    <section class="main">
+        <div class="upper">
+            <p id="first">Get it done today</p>
+	        <input id="userinput" type="text" placeholder="enter items">
+	        <button id="enter">Enter</button>
+
+        </div>
+        
+        <div class="list">
+            <ul>
+                <li id="li" class="bold red" random="23">Notebook</li>
+                <li id="li">Jello</li>
+                <li>Spinach</li>
+                <li>Rice</li>
+                <li>Birthday Cake</li>
+                <li>Candles</li>
+            </ul>
+
+        </div>
+	</section>
+	
+	<script type="text/javascript" src="script.js"></script>
 </body>
 </html>

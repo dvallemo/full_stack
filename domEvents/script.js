@@ -2,9 +2,9 @@ var button = document.getElementById("enter"); //grab the id element and save it
 var input = document.getElementById("userinput");
 var ul = document.querySelector("ul");
 
-function inputLength() {
-    return input.value.length
 
+function inputLength() {
+    return input.value.length;
 }
 
 function createListElement () {
@@ -27,10 +27,19 @@ function addByEnter (event) {
     }
 
 }
+
+function toggle () {
+    let lineThrough = document.getElementsById("li");
+    lineThrough.classList.toggle("done");
+}
 //adding event listener
 button.addEventListener("click", addByButton)//button event listener
 //when inputting a function here, parenthesis are not needed
 //adding key press event: use javascript character codes: enter is key code 13
 input.addEventListener("keydown", addByEnter)
 
+toggle()
+
 //changed event.keyCode === 13 to even.key === "Enter" becuase event.keyCode ===13 got depreciated
+
+
