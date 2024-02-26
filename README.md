@@ -42,6 +42,9 @@ Templates
 * Bootstrap Templates 2- https://startbootstrap.com/templates
 * Animate.css - https://animate.style/
 
+### HTML Intellisense shortcuts 
+* div.loader#loader turns into <div class="loader" id="loader"></div>, so the dot creates a class and the hash creates an id
+
 ### Linux references
 * [mv] - https://linuxize.com/post/how-to-move-files-in-linux-with-mv-command/, install adblocker for this site, the ads on this site are annoying
 * [renaming a directory] - ttps://www.howtogeek.com/807990/rename-directory-linux/
