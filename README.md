@@ -4,6 +4,7 @@
 ### JavaScript references
 * [Array Methods ref W3] - https://www.w3schools.com/jsref/jsref_obj_array.asp
 * [Javascript events] - https://developer.mozilla.org/en-US/docs/Web/Events
+* [JSON Lint] - https://jsonlint.com/
 
 ### Dev Tools
 * [CSS cheat sheet] - https://htmlcheatsheet.com/css/
