@@ -5,6 +5,7 @@
 * [Array Methods ref W3] - https://www.w3schools.com/jsref/jsref_obj_array.asp
 * [Javascript events] - https://developer.mozilla.org/en-US/docs/Web/Events
 * [JSON Lint] - https://jsonlint.com/
+* [React Server Components] - https://www.joshwcomeau.com/react/server-components/
 
 ### Dev Tools
 * [CSS cheat sheet] - https://htmlcheatsheet.com/css/
